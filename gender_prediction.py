@@ -4,9 +4,6 @@ from keras.models import load_model
 from keras_preprocessing.image import img_to_array
 import numpy as np
 
-
-
-
 frame = cv2.VideoCapture(0)
 
 detector= MTCNN()

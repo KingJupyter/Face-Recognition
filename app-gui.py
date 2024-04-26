@@ -4,8 +4,7 @@ from create_dataset import start_capture
 import tkinter as tk
 from tkinter import font as tkfont
 from tkinter import messagebox,PhotoImage
-#from PIL import ImageTk, Image
-from gender_prediction import emotion,ageAndgender
+from gender_prediction import emotion, ageAndgender
 names = set()
 
 
