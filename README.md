@@ -1,6 +1,5 @@
 # Face Recogniton GUI-APP
 
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
 
 # Live Demo
@@ -9,12 +8,11 @@ https://www.youtube.com/embed/3EBdT-0gvu8
 
 ```
 
-
 # A very Simple Gui app for Face Detection 
 
   - Collect Face Data
   - Build Face Classifier 
-  - Detecte the face
+  - Detect the face
 
 #  New Features!
 
@@ -27,7 +25,7 @@ https://www.youtube.com/embed/3EBdT-0gvu8
 1 : Install the requirements .
 
 ```sh
-$ pip install -r  requirements.txt
+$ pip install -r requirements.txt
 ```
 
 2 : Run The App 
