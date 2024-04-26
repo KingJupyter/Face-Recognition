@@ -59,11 +59,7 @@ A webcam window will popup and start recognition proccess<br>
 >![Age and Gender](https://i.ibb.co/9q1L7sD/age.png)<br>
 
 
-
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
-**Free Software, Hell Yeah!**
-
-
-
+Made By ❤ : [Hi-Tech](mailto:forever120429@gmail.com)<br>
+**Free Software, Hello Yeah!**
