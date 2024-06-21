@@ -63,3 +63,7 @@ A webcam window will popup and start recognition proccess<br>
 
 Made By ❤ : [Hi-Tech](mailto:forever120429@gmail.com)<br>
 **Free Software, Hello Yeah!**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
